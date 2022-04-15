@@ -1,4 +1,3 @@
-
 .cr_table td,
 .cr_table th {
     border: 1px solid #fff;
@@ -12,7 +11,4 @@
 }
 .cr_table tr:nth-of-type(odd) td{
     background: #b9b9b9;
-}
-.error {
-
 }
