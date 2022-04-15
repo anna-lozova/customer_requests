@@ -1,0 +1,28 @@
+.response {
+    margin: 10px 20px;
+    text-align: center;
+}
+.cr_form.error .response{
+    color: red;
+}
+.cr_form.send .response{
+    color: green;
+}
+.cr_form label {
+    display: block;
+    width: 100%;
+    margin: 10px 20px;
+}
+.cr_form label input {
+    display: block;
+    width: 100%;
+}
+.cr_form_wrap {
+    display: flex;
+    justify-content: space-between;
+}
+.cr_form_btn {
+    display: flex;
+    justify-content: center;
+    margin: 10px 20px;
+}
